@@ -1,4 +1,5 @@
-const BASE_URL = "http://localhost:8000/api"
+// const BASE_URL = "http://localhost:8000/api"
+const BASE_URL = "https://todo-django-react-production.up.railway.app/api"
 
 export const getDepense = async (token) => {
     const response = await fetch(`${BASE_URL}/depenses/`, {
