@@ -2,7 +2,8 @@ import { useParams, useNavigate } from "react-router-dom"
 import { useEffect, useState } from "react"
 import { useAuth } from "../../context/AuthContext" // ✅ importe useAuth
 
-const BASE_URL = "http://localhost:8000/api"
+// const BASE_URL = "http://localhost:8000/api"
+const BASE_URL = "https://todo-django-react-production.up.railway.app/api"
 
 const DepenseDetail = () => {
   const { id } = useParams()
