@@ -1,0 +1,24 @@
+/* DepenseList.module.css */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.titre {
+  font-size: 2rem;
+  text-align: center;
+  color: #0b16e4;
+}
+
+.filtre {
+    text-align: center;
+    font-style: italic;
+}
+
+.vide {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: coral;
+}
+

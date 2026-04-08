@@ -1,0 +1,23 @@
+
+.container {
+  /* max-width: 800px; */
+  /* margin: 0 auto; */
+  padding: 20px;
+}
+
+.select {
+  font-size: medium;
+  font-family: 'Courier New', Courier, monospace;
+  /* text-align: center; */
+  color: coral;
+}
+
+.input {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: coral;
+}
+
+.add {
+    color: green;
+}

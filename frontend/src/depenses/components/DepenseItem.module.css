@@ -1,0 +1,40 @@
+
+.container {
+  /* max-width: 800px; */
+  /* margin: 0 auto; */
+  padding: 20px;
+}
+
+.select {
+  font-size: medium;
+  text-align: center;
+  color: coral;
+}
+
+.span {
+    /* text-align: center; */
+    font-style: italic;
+    font-weight: 200;
+    padding-left: 10px;
+}
+
+.input {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: coral;
+}
+
+.modifier {
+    color: blue;
+    /* font-size: larger; */
+}
+
+.supprimer {
+    color: red;
+    /* font-size: larger; */
+}
+
+.save {
+    color: green;
+}
