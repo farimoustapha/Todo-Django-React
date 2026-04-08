@@ -153,5 +153,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # ton serveur Vite
-    "https://todo-django-react.vercel.app",  # ton déploiement Vercel
+    "https://todo-django-react-eight.vercel.app",  # ton déploiement Vercel
 ]
